@@ -1,0 +1,6 @@
+lpamt = 1000
+speed(10)
+for i in range(lpamt):
+    circle(50)
+    left(9)
+    forward(5)
